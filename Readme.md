@@ -1,12 +1,12 @@
 # MPI
-Message Passing Interface é um padrão para comunicação de dados em paralelo
+Message Passing Interface Ã© um padrÃ£o para comunicaÃ§Ã£o de dados em paralelo
 
 # Projeto
-Este projeto possúi 3 arquivos para prática de algumas funções de MPI.
+Este projeto possÃºi 3 arquivos para prÃ¡tica de algumas funÃ§Ãµes de MPI.
 
 # How To
-Para se compilar e executar Código com MPI, deve-se possuir openMPI e compilar da seguinte maneira:
+Para se compilar e executar CÃ³digo com MPI, deve-se possuir openMPI e compilar da seguinte maneira:
 	<pre>
-	mpicc -o <name> <.c>
-	mpirun <options> <name>
+	mpicc -o name name.c
+	mpirun options name
 	</pre>
